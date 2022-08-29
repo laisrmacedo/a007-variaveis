@@ -6,6 +6,7 @@ console.log("a =", a)
 console.log("b =", b)
 
 a = b
+b = c
 
 console.log("O novo valor de a é", a)
-console.log("O novo valor de b é", c)
+console.log("O novo valor de b é", b)
